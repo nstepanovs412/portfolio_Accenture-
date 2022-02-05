@@ -37,8 +37,10 @@ Once the above tasks are done improve dataset
 
 •Use augmentation methods
 
-
 ## **Task 3**
+Using previously trained model and unseen examples predict the image class
+
+## **Task 4**
 
 There is a dataset of 20K 12 leads ECGS PTBXL https://physionet.org/content/ptb-xl/1.0.0/
 
