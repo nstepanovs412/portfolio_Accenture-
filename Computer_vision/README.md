@@ -1,4 +1,4 @@
-#Computer vision tasks
+# Computer vision tasks
 ## **Task 1**
 
   • Use MNIST dataset to build LeNet model
